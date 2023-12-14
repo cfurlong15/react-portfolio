@@ -14,12 +14,13 @@ function Projects() {
     const loaded = () => {
         return projects.map((project, idx) => (
             <div key={idx}>
-                <img src={project.image} />
+                {/* <img src={project.image} /> */}
+                <h3>{project.name}</h3>
                 <a href={project.git}>
                     <button>Github</button>
                 </a>
                 <a href={project.live}>
-                    <button>live site</button>
+                    <button>Live Site</button>
                 </a>
             </div>
         ))
