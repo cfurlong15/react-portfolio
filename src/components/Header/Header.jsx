@@ -13,16 +13,16 @@ function Header() {
     
     return (
         <header>
-            <h1>Conor Furlong</h1>
-            <nav className="Nav text-violet-600">
+            <h1 className="navName">Conor Furlong</h1>
+            <nav className="Nav">
                 <Link to='/'>
-                    <div>HOME</div>
+                    <div className="Nav-Link">HOME</div>
                 </Link>
                 <Link to='/about'>
-                    <div>ABOUT</div>
+                    <div className="Nav-Link">ABOUT</div>
                 </Link>
                 <Link to='/projects'>
-                    <div>PROJECTS</div>
+                    <div className="Nav-Link">PROJECTS</div>
                 </Link>
             </nav>
         </header>

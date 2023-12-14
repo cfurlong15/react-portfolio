@@ -1,0 +1,40 @@
+.Headshot {
+    background-image: url("../../public/images/Conor\ Furlong\ Updated\ Headshot.jpg");
+    background-size: cover;
+    /* border: 2px solid blue; */
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    height: 300px;
+    margin-top: -200px;
+    width: 400px;
+    margin-left: -200px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.Intro {
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    height: 300px;
+    margin-top: -200px;
+    width: 400px;
+    margin-left: -200px;
+    text-align: center;
+    color: white;
+}
+
+.Welcome {
+    font-size: 35px;
+}
+
+.homeName {
+    font-size: 40px;
+    margin-top: 5%;
+}
+
+.myTitle {
+    font-size: 25px;
+    margin-top: 5%%;
+}
