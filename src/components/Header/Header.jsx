@@ -14,7 +14,7 @@ function Header() {
     return (
         <header>
             <h1>Conor Furlong</h1>
-            <nav className="Nav">
+            <nav className="Nav text-violet-600">
                 <Link to='/'>
                     <div>HOME</div>
                 </Link>
