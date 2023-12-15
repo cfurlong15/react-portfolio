@@ -1,0 +1,70 @@
+.projectImage {
+    width: 60vh;
+    height:60vh;
+    border-radius: 15px;
+    justify-content: center;
+    position: static;
+    
+    /* margin-left: 700px; */
+}
+
+.projectBox {
+    display: grid;
+    grid-template-columns:minmax();
+    width: 90vh;
+    height: 90vh;
+    gap: 2rem 1.5rem;
+    margin-left: 20%;
+    margin-right: 20%;
+    color: white;
+    margin-top: 20px;
+    justify-content: space-between;
+    /* border: 2px solid red; */
+    position: relative;
+}
+
+/* .projectName {
+    display: grid;
+    
+} */
+
+button {
+    background: blue;
+    color: white;
+    border: 2px solid blue;
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+}
+
+.projectLinks {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+/* .github {
+    margin-bottom: 10px;
+} */
+/* .liveSite {
+    margin-bottom: 200px;
+} */
+
+button:hover {
+    color: blue;
+}
+
+.projectName {
+    margin-left: 40px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.projectDescribe {
+    font-size: 20px;
+    /* border: 5px solid red; */
+    width: 550px;
+    margin-left: 3%;
+    text-align: center;
+}

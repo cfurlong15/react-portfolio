@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react'
+import './Projects.css'
 
 function Projects() {
     const [projects, setProjects] = useState(null)
@@ -13,15 +14,20 @@ function Projects() {
 
     const loaded = () => {
         return projects.map((project, idx) => (
-            <div key={idx}>
+            <div className="projectBox" key={idx}>
                 {/* <img src={project.image} /> */}
-                <h3>{project.name}</h3>
+                <h3 className="projectName">{project.name}</h3>
+                <img className="projectImage" src={project.image}/>
+                <p className="projectDescribe">{project.describe}</p>
+                <div className="projectLinks">
                 <a href={project.git}>
-                    <button>Github</button>
+                    <button className="github">Github</button>
                 </a>
                 <a href={project.live}>
-                    <button>Live Site</button>
+                    <button className="liveSite">Live Site</button>
                 </a>
+                </div>
+                
             </div>
         ))
     }

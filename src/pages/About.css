@@ -1,0 +1,29 @@
+.About {
+    display: grid;
+    position: relative;
+    justify-content: center;
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+}
+
+.aboutMe {
+    font-size: 50px;
+    margin-bottom: 40px;
+}
+
+.Bio {
+    font-size: 20px;
+    text-align: left;
+}
+
+.Email {
+    font-size: 20px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+.Linkedin {
+    margin-bottom: 10px;
+}

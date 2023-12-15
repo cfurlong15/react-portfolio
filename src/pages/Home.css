@@ -10,7 +10,7 @@
     width: 400px;
     margin-left: -200px;
     text-align: center;
-    border-radius: 5px;
+    border-radius: 20px;
 }
 
 .Intro {
@@ -36,5 +36,6 @@
 
 .myTitle {
     font-size: 25px;
-    margin-top: 5%%;
+    margin-top: 5%;
 }
+

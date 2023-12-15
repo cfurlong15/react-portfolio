@@ -3,13 +3,15 @@
       "name": "Concentration",
       "live": "https://cfurlong15.github.io/Project-1-Browser-Based-Game/",
       "git": "https://github.com/cfurlong15/Project-1-Browser-Based-Game",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "image": "./images/concentration-image.png",
+      "describe": "A cosmic-themed interactive card-based game designed to test your memory and beat your previous records."
     },
     {
       "name": "Developing Feelings",
       "live": "https://developing-feelings-d5735203c312.herokuapp.com/",
       "git": "https://github.com/CarterN2000/Project-2",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "image": "./images/developing-feelings-image.png",
+      "describe": "A dating app developed by software engineers, for software engineers. Create an account and connect with people like you."
     }
   ]
   
