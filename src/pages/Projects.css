@@ -4,8 +4,6 @@
     border-radius: 15px;
     justify-content: center;
     position: static;
-    
-    /* margin-left: 700px; */
 }
 
 .projectBox {
@@ -19,14 +17,8 @@
     color: white;
     margin-top: 20px;
     justify-content: space-between;
-    /* border: 2px solid red; */
     position: relative;
 }
-
-/* .projectName {
-    display: grid;
-    
-} */
 
 button {
     background: blue;
@@ -44,13 +36,6 @@ button {
     margin-bottom: 100px;
 }
 
-/* .github {
-    margin-bottom: 10px;
-} */
-/* .liveSite {
-    margin-bottom: 200px;
-} */
-
 button:hover {
     color: blue;
 }
@@ -63,7 +48,6 @@ button:hover {
 
 .projectDescribe {
     font-size: 20px;
-    /* border: 5px solid red; */
     width: 550px;
     margin-left: 3%;
     text-align: center;

@@ -4,108 +4,10 @@
 
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
-  /* line-height: 1.5;
-  font-weight: 400; */
-  
-
-  /* color-scheme: light dark; */
-  /* color: rgba(255, 255, 255, 0.87); */
-  /* background-color: #242424;
-  background-color: #000000;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 2000 1500'%3E%3Cdefs%3E%3Crect fill='none' stroke-width='11.6' id='a' x='-400' y='-300' width='800' height='600'/%3E%3C/defs%3E%3Cg transform='scale(0.955)' style='transform-origin:center'%3E%3Cg style='transform-origin:center'%3E%3Cg transform='rotate(-88 0 0)' style='transform-origin:center'%3E%3Cg transform='translate(1000 750)'%3E%3Cuse stroke='%239506FF' href='%23a' transform='rotate(5.5 0 0) scale(1.055)'/%3E%3Cuse stroke='%238e07ff' href='%23a' transform='rotate(11 0 0) scale(1.11)'/%3E%3Cuse stroke='%238808ff' href='%23a' transform='rotate(16.5 0 0) scale(1.165)'/%3E%3Cuse stroke='%238108ff' href='%23a' transform='rotate(22 0 0) scale(1.22)'/%3E%3Cuse stroke='%237a09ff' href='%23a' transform='rotate(27.5 0 0) scale(1.275)'/%3E%3Cuse stroke='%23730aff' href='%23a' transform='rotate(33 0 0) scale(1.33)'/%3E%3Cuse stroke='%236d0bff' href='%23a' transform='rotate(38.5 0 0) scale(1.385)'/%3E%3Cuse stroke='%23660cff' href='%23a' transform='rotate(44 0 0) scale(1.44)'/%3E%3Cuse stroke='%235f0cff' href='%23a' transform='rotate(49.5 0 0) scale(1.495)'/%3E%3Cuse stroke='%23580dff' href='%23a' transform='rotate(55 0 0) scale(1.55)'/%3E%3Cuse stroke='%23520eff' href='%23a' transform='rotate(60.5 0 0) scale(1.605)'/%3E%3Cuse stroke='%234b0fff' href='%23a' transform='rotate(66 0 0) scale(1.66)'/%3E%3Cuse stroke='%234410ff' href='%23a' transform='rotate(71.5 0 0) scale(1.715)'/%3E%3Cuse stroke='%233d10ff' href='%23a' transform='rotate(77 0 0) scale(1.77)'/%3E%3Cuse stroke='%233711ff' href='%23a' transform='rotate(82.5 0 0) scale(1.825)'/%3E%3Cuse stroke='%233012FF' href='%23a' transform='rotate(88 0 0) scale(1.88)'/%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
-  background-attachment: fixed;
-  background-size: cover;
-  min-height: 100%;
-  min-width: 1024px;
-  position: fixed;
-  top: 0;
-  left: 0; */
-
-  
-  /* background-color: #2F0473;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 900'%3E%3Cpolygon fill='%23750c86' points='957 450 539 900 1396 900'/%3E%3Cpolygon fill='%23223ba9' points='957 450 872.9 900 1396 900'/%3E%3Cpolygon fill='%235d0e8f' points='-60 900 398 662 816 900'/%3E%3Cpolygon fill='%231f26a3' points='337 900 398 662 816 900'/%3E%3Cpolygon fill='%234d1193' points='1203 546 1552 900 876 900'/%3E%3Cpolygon fill='%2321189c' points='1203 546 1552 900 1162 900'/%3E%3Cpolygon fill='%2335149a' points='641 695 886 900 367 900'/%3E%3Cpolygon fill='%232e1496' points='587 900 641 695 886 900'/%3E%3Cpolygon fill='%232c22a1' points='1710 900 1401 632 1096 900'/%3E%3Cpolygon fill='%233d108d' points='1710 900 1401 632 1365 900'/%3E%3Cpolygon fill='%232747a9' points='1210 900 971 687 725 900'/%3E%3Cpolygon fill='%23400d88' points='943 900 1210 900 971 687'/%3E%3C/svg%3E");
-  background-attachment: fixed;
-  background-size: cover; */
 
   background-image: url("../public/images/endless-constellation.svg");
 
-  /* background-image: url(../public/images/IMG_2204.jpg); */
-  /* background-size: cover; */
-  
-
-  /* font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale; */
 }
 .App {
   height: 1000px;
 }
-
-
-  
-
-/* .Home-Container{
-  border: 2px solid blue;
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  height: 200px;
-  margin-top: -200px;
-  width: 400px;
-  margin-left: -200px;
-  text-align: center;
-  border-radius: 5px;
-} */
-
-
-
-
-/* a:hover {
-  color: #535bf2;
-} */
-
-/* body {
-  margin: 0;
-  display: flex;
-  place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
-} */
-
-/* h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
-} */
-
-/* button {
-  border-radius: 8px;
-  border: 1px solid transparent;
-  padding: 0.6em 1.2em;
-  font-size: 1em;
-  font-weight: 500;
-  font-family: inherit;
-  background-color: #1a1a1a;
-  cursor: pointer;
-  transition: border-color 0.25s;
-} */
-/* button:hover {
-  border-color: #646cff;
-} */
-/* button:focus,
-button:focus-visible {
-  outline: 4px auto -webkit-focus-ring-color;
-} */
-
-/* @media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
-} */

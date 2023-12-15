@@ -21,12 +21,15 @@ function About() {
       <p className="Bio">{about.bio}</p>
       <p className="Email">Contact me at {about.email}</p>
       <div className="Socials">
-      <a className="Linkedin" href={about.linkedin}>
-        <button>LinkedIn</button>
-      </a>
-      <a className="Github" href={about.github}>
-        <button>GitHub</button>
-      </a>
+        <a className="Linkedin" href={about.linkedin}>
+          <button>LinkedIn</button>
+        </a>
+        <a className="Github" href={about.github}>
+          <button>GitHub</button>
+        </a>
+      </div>
+      <div>
+        <img className="Resume" src="./images/resume-screenshot.png" />
       </div>
     </div>
   );

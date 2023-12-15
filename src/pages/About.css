@@ -27,3 +27,12 @@
 .Linkedin {
     margin-bottom: 10px;
 }
+
+.Resume {
+    display: grid;
+    position: relative;
+    justify-content: center;
+    margin-left: 80px;
+    margin-top: 50px;
+    border-radius: 20px;
+}
