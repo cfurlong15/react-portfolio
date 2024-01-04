@@ -12,6 +12,13 @@
       "git": "https://github.com/CarterN2000/Project-2",
       "image": "./images/developing-feelings-image.png",
       "describe": "A dating app developed by software engineers, for software engineers. Create an account and connect with people like you."
+    },
+    {
+      "name": "WeatherWise",
+      "live": "https://weather-wise-weather.netlify.app/",
+      "git": "https://github.com/cfurlong15/Project3-Frontend?tab=readme-ov-file",
+      "image": "./images/weatherwise-image.png",
+      "describe": "An easy-to-use and visually appealing app to help anyone find currentw weather data in their city."
     }
   ]
   
